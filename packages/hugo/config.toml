@@ -1,4 +1,4 @@
 baseURL = 'https://kanap-mshr.github.io/my-release-note/'
 languageCode = 'ja'
-title = 'kanaps release note
+title = 'kanaps release note'
 theme = 'ananke'
