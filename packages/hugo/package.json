@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server": "hugo server -D",
+    "new": "hugo new posts/first-post.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
