@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://kanap-mshr.github.io/my-release-note/'
+languageCode = 'ja'
+title = 'kanaps release note
 theme = 'ananke'
