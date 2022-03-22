@@ -6,7 +6,7 @@
   "scripts": {
     "server": "hugo server -D",
     "new": "hugo new posts/first-post.md",
-    "create": "rm -rf ../../*  && hugo --cleanDestinationDir && mv ./public/* ../../docs/",
+    "create": "rm -rf ../../docs/*  && hugo --cleanDestinationDir && mv ./public/* ../../docs/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
